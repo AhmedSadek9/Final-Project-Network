@@ -145,7 +145,7 @@ def receive_latest_email(email_address, password):
 if __name__ == "__main__":
 
 
-    # ⚠️ Configuration
+    # Configuration
     SENDER_EMAIL = "morgan.nikolaus51@ethereal.email" 
     SENDER_PASSWORD = "5aHNAbGYaeG5PANkYQ"
     RECEIVER_EMAIL = SENDER_EMAIL  # Testing by sending to me
@@ -169,4 +169,5 @@ if __name__ == "__main__":
         
         
         
+
         #python email_client.py
