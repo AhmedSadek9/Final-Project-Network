@@ -1,0 +1,4 @@
+Operation,Latency (s),Timestamp
+SMTP Send,1.5231,00:17:57
+IMAP Fetch,1.6098,00:18:03
+IMAP Fetch,1.5745,00:20:13
